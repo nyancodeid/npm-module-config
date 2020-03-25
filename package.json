@@ -1,0 +1,9 @@
+{
+  "name": "requiremain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "qc": "^0.0.1"
+  }
+}
